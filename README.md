@@ -25,6 +25,7 @@ Semestre: 2026/1
 - [Requisitos Não Funcionais](https://github.com/juliocesar-codes/conectabook/blob/main/docs/RNF.docx)
 - [TAP](https://github.com/juliocesar-codes/conectabook/wiki/TAP)
 - [Protótipo de Alta Fidelidade](https://www.figma.com/design/x75SBT8kCmnKymExqypK0r/Prot%C3%B3tipo-TCC?node-id=263-354&p=f&t=NLE5aeGmmeFprg7G-0)
+- [Vídeo Protótipo de Alta Fidelidade](https://canva.link/hli3mtgvitc5ffr)
 
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
