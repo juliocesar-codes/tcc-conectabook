@@ -1,11 +1,13 @@
 
-<img width="437" height="164" alt="Capturar" src="https://github.com/user-attachments/assets/8ba0eb64-6238-47ee-8c6c-98fa66647a4a" />
+<img width="632" height="395" alt="nano-banana-1776449099684-removebg-preview" src="https://github.com/user-attachments/assets/a126ba05-764b-45b9-8cd2-c8fd0df83d0b" />
+
 
 
 
 # Template para TCC - Repositório Oficial
 
 Este repositório serve como modelo (template) para organização e versionamento do Trabalho de Conclusão de Curso. Utilize esta estrutura para manter seu projeto organizado e facilitar o acompanhamento do orientador.
+
 
 ## Sobre este Template
 
